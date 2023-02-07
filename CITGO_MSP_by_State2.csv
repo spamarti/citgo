@@ -1,0 +1,27 @@
+Rank,State,Market_Share_Percentage,Outlet_Share_Percentage,Region,ST
+1,Maine,21.08,23.21,Northeast,ME
+2,Connecticut,14.29,17.05,Northeast,CT
+3,Vermont,9.75,15.27,Northeast,VT
+4,New Hampshire,9.33,11.94,Northeast,NH
+5,Michigan,4.03,7.63,Central,MI
+6,Wisconsin,3.54,6.98,Central,WI
+7,New York,3.45,6.3,Northeast,NY
+8,Arkansas,3.27,6.77,Central,AR
+9,North Carolina,2.9,8.9,Southern,NC
+10,Pennsylvania,2.74,4.73,Northeast,PA
+11,Massachusetts,2.53,5.32,Northeast,MA
+12,Rhode Island,2.45,4.62,Northeast,RI
+13,Alabama,2.39,6.49,Southern,AL
+14,Virginia,2.29,7.67,Southern,VA
+15,Maryland,2.1,4.4,Northeast,MD
+16,Louisiana,2.02,4.76,Central,LA
+17,Georgia,1.96,6.79,Southern,GA
+18,Illinois,1.82,4.7,Central,IL
+19,Tennessee,1.65,5.2,Southern,TN
+20,Mississippi,1.31,2.54,Southern,MS
+21,Indiana,1.29,3.34,Central,IN
+22,Florida,1.21,4.64,Southern,FL
+23,South Carolina,1.15,4.37,Southern,SC
+24,New Jersey,1.12,2.45,Northeast,NJ
+25,West Virginia,0.38,1.83,Northeast,WV
+26,Texas,0.3,1.58,Central,TX
